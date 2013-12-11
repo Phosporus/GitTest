@@ -22,3 +22,9 @@ C:\Dropbox\Handledare\Datastrukturer och algoritmer\Rättningar projektet\Abu\Sn
 C:\Dropbox\Handledare\Datastrukturer och algoritmer\Rättningar projektet\Abu\Snake\Snake\Snake\bin\Debug\Snake.exe
 C:\Dropbox\Handledare\Datastrukturer och algoritmer\Rättningar projektet\Abu\Snake\Snake\Snake\bin\Debug\Snake.pdb
 C:\Dropbox\Handledare\Datastrukturer och algoritmer\Rättningar projektet\Abu\Snake\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+C:\Users\Koffes\Documents\Visual Studio 2012\Git\GitTest\Snake\Snake\Snake\bin\Debug\Snake.exe.config
+C:\Users\Koffes\Documents\Visual Studio 2012\Git\GitTest\Snake\Snake\Snake\obj\Debug\Snake.exe
+C:\Users\Koffes\Documents\Visual Studio 2012\Git\GitTest\Snake\Snake\Snake\obj\Debug\Snake.pdb
+C:\Users\Koffes\Documents\Visual Studio 2012\Git\GitTest\Snake\Snake\Snake\bin\Debug\Snake.exe
+C:\Users\Koffes\Documents\Visual Studio 2012\Git\GitTest\Snake\Snake\Snake\bin\Debug\Snake.pdb
+C:\Users\Koffes\Documents\Visual Studio 2012\Git\GitTest\Snake\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache

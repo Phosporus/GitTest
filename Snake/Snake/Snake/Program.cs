@@ -28,6 +28,7 @@ namespace Snake
                 for (int y = 0; y < height; y++)
                 {
                     coordinates[x, y] = 0;
+                    int s = 3;
                 }
             }
 
